@@ -1,8 +1,10 @@
 # potter-api-client
-HP Sorting Hat Starter Web Service Client
+Harry Potter Based API Client
 Consumes a PHP API Harry Potter Web Service
 
 Use this to practice consuming a web service via a GitHub Page, etc.
+
+Features advanced sorting using the Underscore.js library
 
 ## Getting Started
 
